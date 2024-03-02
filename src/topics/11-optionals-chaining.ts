@@ -9,7 +9,7 @@ const passenger1 : Passenger = {
 }
 
 const passenger2 : Passenger ={
-    name: 'melissa',
+    name: 'melissa modificada',
     children: ['luis','jorge'],
 
 }
