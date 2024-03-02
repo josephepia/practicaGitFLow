@@ -7,3 +7,6 @@ const isAlive: boolean = true;
 console.log({name, hpPoints,isAlive})
 
 export{};
+
+//Prueba test ahora
+//nuevo
