@@ -8,4 +8,5 @@ console.log({name, hpPoints,isAlive})
 
 export{};
 
-//Prueba
+//Prueba test ahora
+//nuevo
